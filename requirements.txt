@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+nltk
+joblib
+gradio
+umap-learn
+matplotlib
+seaborn
+wordcloud
